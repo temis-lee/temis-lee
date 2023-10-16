@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @temis-lee
-- 👀 I’m interested in phyton and web development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in phyton and back end development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me whatsapp +2349058069559
+- 📫 How to reach me :Instagram "______temiloluwa"
 
 <!---
 temis-lee/temis-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
