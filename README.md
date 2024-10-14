@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @temis-lee
-- 👀 I’m interested in phyton and back end development
+- 👀 I’m interested in python and back end development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me :Instagram "______temiloluwa"
 
