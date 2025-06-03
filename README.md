@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @temis-lee
-- 👀 I’m interested in python and back end development
+- 👋 Hi, I’m @Artemis (temis)
+- 👀 I’m interested in python and UI/UX design
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me :Instagram "ologba1" doing someting else, just message
 
